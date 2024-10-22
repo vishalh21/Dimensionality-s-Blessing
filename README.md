@@ -29,9 +29,9 @@ To get started with the Dimensionality's Blessing project, follow these steps:
   - Clustering results for different methods will be saved in respective folders as `{method}_clustering_results` for the `Samples/`.
 
 4. Other details
-   - `cluster.py` contains the distribution based clustering algorithm and `clustering_algos.py` contains other clustering alsorithms for comparision.
-   - `extract_featues.py` is used for extracting features from the images using `ResNetFeatureExtractor`.
-   - `evaluate.py` is used evaluation of the clustering algorithms using different methods and comparing them.
-   - `save_clusters.py` is used for saving the clusters locally for the sample datset.
-   - Datatset used here provided in `https://www.kind-of-works.com/source_code.html` along with samples from mnist and caltech dataset.
+  - `cluster.py` contains the distribution based clustering algorithm and `clustering_algos.py` contains other clustering alsorithms for comparision.
+  - `extract_featues.py` is used for extracting features from the images using `ResNetFeatureExtractor`.
+  - `evaluate.py` is used evaluation of the clustering algorithms using different methods and comparing them.
+  - `save_clusters.py` is used for saving the clusters locally for the sample datset.
+  - Datatset used here provided in `https://www.kind-of-works.com/source_code.html` along with samples from mnist and caltech dataset.
 
