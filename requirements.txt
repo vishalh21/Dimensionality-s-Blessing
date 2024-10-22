@@ -1,7 +1,8 @@
+numpy
+pandas
+tqdm
 torch
 torchvision
-numpy
-scipy
-Pillow
 scikit-learn
-tqdm
+Pillow
+matplotlib
